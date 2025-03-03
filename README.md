@@ -56,7 +56,12 @@ cd stock-market-prediction
 python -m venv venv
 ```
 ```sh
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+source venv/bin/activate 
+```
+
+ On Windows use:
+ ```sh
+venv\Scripts\activate
 ```
 
 # 3️⃣ Install Dependencies
